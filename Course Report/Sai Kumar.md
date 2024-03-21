@@ -23,5 +23,5 @@ Below is a table summarizing the mini projects and final project completed durin
 
 | Description                               | Link                                    |
 |-------------------------------------------|-----------------------------------------|
-| Mini Projects: Library Management System in SQL     | [Click here]     (https://github.com/saikumarjinde/G8_DS/tree/main/Mini%20Projects/Sai%20Kumar)                     |
-| Final Project: [Data Analysis and building a model on Carprice Dataset]     | [click Here] (https://github.com/saikumarjinde/G8_DS/tree/main/Final%20Capstone%20Projects/Sai%20Kumar )                         |
+| Mini Projects: Library Management System in SQL     | [Click here]     (https://github.com/sure-trust/G8_DS/tree/main/Mini%20Projects/Sai%20Kumar)                     |
+| Final Project: [Data Analysis and building a model on Carprice Dataset]     | [click Here] (https://github.com/sure-trust/G8_DS/tree/main/Final%20Capstone%20Projects/Sai%20Kumar )                         |
