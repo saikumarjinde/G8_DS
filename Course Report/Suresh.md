@@ -23,5 +23,5 @@ Below is a table summarizing the mini projects and final project completed durin
 
 | Description                               | Link                                    |
 |-------------------------------------------|-----------------------------------------|
-| Mini Projects:SQL,OOPS,Pandas and Numpy    | [click here](https://github.com/SureshMadugundu/G8_DS/tree/main/Mini%20Projects/Suresh)                         |
-| Final Project:Linear Regression     | [click here](https://github.com/SureshMadugundu/G8_DS/tree/main/Final%20Capstone%20Projects/Suresh)                         |
+| Mini Projects: SQL,OOPS,Pandas and Numpy      | [click here](https://github.com/sure-trust/G8_DS/tree/main/Mini%20Projects/Suresh)                         |
+| Final Project: Linear Regression     | [click here](https://github.com/sure-trust/G8_DS/tree/main/Final%20Capstone%20Projects/Suresh)                         |
